@@ -36,8 +36,6 @@ brew "gnupg"
 brew "gpgme"
 brew "gmime"
 brew "graphviz"
-brew "node"
-brew "heroku"
 brew "hub"
 brew "hugo"
 brew "libimobiledevice", args: ["HEAD"]
