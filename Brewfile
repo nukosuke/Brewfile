@@ -53,13 +53,11 @@ brew "mailutils"
 brew "mariadb"
 brew "msmtp"
 brew "mysql", link: false
-brew "mysql@5.6"
 brew "mysql@5.7", restart_service: true
 brew "nodebrew"
 brew "packer"
 brew "pandoc"
 brew "peco"
-brew "postgresql"
 brew "protobuf"
 brew "ruby-build"
 brew "rbenv"
