@@ -8,13 +8,13 @@
         "revision": "e8b894acd1c6e7431b8efb5a30457ab8668daeeb"
       },
       "homebrew/cask": {
-        "revision": "2154eeb1bed3efe4477118d5ba9abf772d3866f6"
+        "revision": "0d88cd98838600dc06445b9d5511680fc576a95b"
       },
       "homebrew/cask-versions": {
         "revision": "1eb7c21f465e561cb563b564405cc1f7685d7f8d"
       },
       "homebrew/core": {
-        "revision": "b4f1f89423cd7d49da21da9bb4b9b734ed758a94"
+        "revision": "65a8953b762732e1b2b9a9c14e1981f2e9851707"
       },
       "homebrew/services": {
         "revision": "c8f71846b2ee29c46a9557f9a03f106d5d2778d8"
@@ -2460,6 +2460,18 @@
         "options": {
           "full_name": "wkhtmltopdf"
         }
+      },
+      "firefox": {
+        "version": "90.0.2",
+        "options": {
+          "full_name": "firefox"
+        }
+      },
+      "slack": {
+        "version": "4.18.0",
+        "options": {
+          "full_name": "slack"
+        }
       }
     }
   },
@@ -2468,7 +2480,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "3.2.5",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "b4f1f89423cd7d49da21da9bb4b9b734ed758a94",
+        "Homebrew/homebrew-core": "65a8953b762732e1b2b9a9c14e1981f2e9851707",
         "CLT": "12.5.1.0.1.1623191612",
         "Xcode": "12.5",
         "macOS": "11.5.1"
