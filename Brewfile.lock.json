@@ -2472,6 +2472,18 @@
         "options": {
           "full_name": "slack"
         }
+      },
+      "docker": {
+        "version": "3.5.2,66501",
+        "options": {
+          "full_name": "docker"
+        }
+      },
+      "dropbox": {
+        "version": "127.4.4265",
+        "options": {
+          "full_name": "dropbox"
+        }
       }
     }
   },
