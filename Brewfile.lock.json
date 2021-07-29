@@ -14,7 +14,7 @@
         "revision": "86874a403377bb684494dc4c914202b34ed7aea6"
       },
       "homebrew/core": {
-        "revision": "6fc1a4c6fba45148acb6b4eef9a9fc35b171e622"
+        "revision": "79840338996150742b30b6b7fa30980ec26dad6d"
       },
       "homebrew/services": {
         "revision": "c8f71846b2ee29c46a9557f9a03f106d5d2778d8"
@@ -2490,6 +2490,12 @@
         "options": {
           "full_name": "aquaskk"
         }
+      },
+      "1password": {
+        "version": "7.8.6",
+        "options": {
+          "full_name": "1password"
+        }
       }
     }
   },
@@ -2498,7 +2504,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "3.2.5",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "6fc1a4c6fba45148acb6b4eef9a9fc35b171e622",
+        "Homebrew/homebrew-core": "79840338996150742b30b6b7fa30980ec26dad6d",
         "CLT": "12.5.1.0.1.1623191612",
         "Xcode": "12.5",
         "macOS": "11.5.1"
