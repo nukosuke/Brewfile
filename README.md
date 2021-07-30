@@ -7,6 +7,25 @@
    $ brew bundle
    ```
 
+## AquaSKK
+- ツールバーのIMEメニューから `キーボード環境設定を開く` を選択し、入力ソースに `AquaSKK統合` を追加する
+- メニューに追加された `AquaSKK -> 環境設定` を選択
+
+### 拡張設定
+以下のように設定。
+
+| 有効 | 拡張設定規則                             | 区分     |
+|:-----|------------------------------------------|----------|
+| x    | 拡張ローマ字入力「AZIK」を使う(US配列用) | システム |
+
+### 辞書
+以下のように設定。
+
+| 有効 | 辞書の種類                 | 場所           |
+|:-----|----------------------------|----------------|
+| x    | SKK 辞書(UTF-8)            | `~/.skk-jisyo` |
+| x    | SKK 辞書(自動ダウンロード) | `SKK-JISYO.L`  |
+
 ## asdf
 Homebrew でインストールした asdf に [nodejs plugin](https://github.com/asdf-vm/asdf-nodejs) を使って Node をインストールしようとすると、
 `~/.asdf/lib/commands/command-help.bash: No such file or directory` のようなエラーが出ることがある。  
