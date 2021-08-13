@@ -54,3 +54,12 @@ Homebrew でインストールした asdf に [nodejs plugin](https://github.com
 ``` sh
 % git clone git@github.com:nukosuke/.emacs.d.git .config/emacs
 ```
+
+## TeX
+[参考](https://qiita.com/yaplus/items/55fa6957c1b15dbcf387)
+
+``` Sh
+% tlmgr update --self --all
+% tlmgr install latexmk
+% tlmgr install collection-langjapanese
+```
